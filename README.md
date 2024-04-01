@@ -1,4 +1,2 @@
 # nvim-config
-The configuration files for my Neovim setup
-alkdfjs;lajfi
-Uses Packer and is written completely in Lua
+The configuration files for my Neovim setup incase my computer catches on fire or my cat gets hungry :)
